@@ -14,4 +14,7 @@ I'll be spending the rest of the day seeing if I can get this to work with Sprin
 Wish me luck. :^)<br>
 <br>
 Richard<br>
+<br>
+Edit: As of now, I have two additional examples. One uses a string parameter and the other uses a datatable.<br>
+I have earned my Skyrim time today. :)<br>
 
